@@ -1,0 +1,19 @@
+{
+  "name": "node-lessons",
+  "version": "1.0.0",
+  "description": "Me practicing some node.js basics",
+  "main": "index.js",
+  "dependencies": {
+    "concat-stream": "^1.6.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm run start"
+  },
+  "keywords": [
+    "lessons",
+    "learnyounode"
+  ],
+  "author": "Juan Bigorra",
+  "license": "ISC"
+}
